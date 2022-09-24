@@ -1,21 +1,10 @@
 <!-- intro hello world -->
 <h5 align="center">
-Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning and Deep learning. I'm inquisitive about learning new technologies and their impact on improving existing solutions. I like how a code in Python using TensorFlow and Keras can give fascinating predictions with help of ML models. I love Convolution Neural networks. I like playing with transfer learning! <img src="GIF/Earth.gif" width="24px">
-<img src= "WEBP/robo_world.webp" height="250px" width="350px" align="right">
-</h1>
-<br>
-<br>
+Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning and Deep learning. I'm inquisitive about learning new technologies and their impact on improving existing solutions. I like how a code in Python using TensorFlow and Keras can give fascinating predictions with help of ML models. I love Convolution Neural networks. I like playing with transfer learning! 
+</h5>
 
-<hr>
 
-<!-- streak and trophies -->
-<p align="center">
-  <img height="120" width="110" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"/>
-  <img height="120" width="110" src="WEBP/right.webp">
-</p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 
 <hr>
