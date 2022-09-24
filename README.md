@@ -3,17 +3,8 @@
 Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning and Deep learning. I'm inquisitive about learning new technologies and their impact on improving existing solutions. I like how a code in Python using TensorFlow and Keras can give fascinating predictions with help of ML models. I love Convolution Neural networks. I like playing with transfer learning! 
 </h5>
 
-
-
-<br>
-
-<hr>
   
-<hr>
 
-<!-- tools and github giant logo -->
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="WEBP/gold_cat.webp">
-<br/>
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
 <br/>
@@ -31,10 +22,6 @@ Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning a
 <br/>
 <br/>
 <hr>
-
-
-
-
 
 
 <p align="center">
