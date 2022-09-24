@@ -12,23 +12,13 @@ Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning a
 <!-- Laguages i know-->
 <p align= "center">
 <a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-
-#
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
 <a href="https://git-scm.com/"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code></a>
 <a href="https://jupyter.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
-
 </p>
-<br/>
-<br/>
-<br/>
-<hr>
 
 
-<br/>
-
-<hr>
 
 <!-- outro -->
 
