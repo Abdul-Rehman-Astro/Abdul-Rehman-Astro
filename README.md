@@ -10,8 +10,9 @@ Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning a
 <br/>
 <br/>
 <!-- Laguages i know-->
+<p align= "center">
 <a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-
+</p>
 #
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
@@ -23,12 +24,6 @@ Hi, I'm a third-year CSE student at SLIET. I am interested in Machine learning a
 <br/>
 <hr>
 
-
-<p align="center">
-  <a href="https://www.hackerrank.com/ab_rehman01280" target="_blank">
-    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/></code>
-  </a>
-</p>
 
 <br/>
 
