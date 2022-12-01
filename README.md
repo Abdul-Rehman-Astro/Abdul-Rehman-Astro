@@ -11,7 +11,7 @@ Hi, I'm a third-year CSE student at SLIET and Ex- Intern at IIT Roorkee. I am in
 <!-- Laguages i know-->
 <p align= "center">
 
-<a href = "https://github.com/Abdul-Rehman-Astro/Abdul-Rehman-Astro/blob/main/DSC_4915.JPG">><code><img height="400" width="600" src="https://github.com/Abdul-Rehman-Astro/Abdul-Rehman-Astro/blob/main/DSC_4915.JPG"></code></a>
+<a href = "https://github.com/Abdul-Rehman-Astro/Abdul-Rehman-Astro/blob/main/DSC_4915.JPG">><code><img height="600" width="1000" src="https://github.com/Abdul-Rehman-Astro/Abdul-Rehman-Astro/blob/main/DSC_4915.JPG"></code></a>
 </p>
 
 <p align= "center">
