@@ -1,5 +1,5 @@
 <h5 align="center">
-Hi, I'm a final-year CSE student at SLIET and 2 times Spark Intern at IIT Roorkee. I am interested Deep learning. I'm inquisitive about learning new technologies and their impact on improving existing solutions. I like how a code in Python using TensorFlow and Keras can give fascinating predictions with help of Deep learning models. I love CNN,RNN,LSTM. I like playing with transfer learning! 
+Hi, I'm 2 times Spark Intern at IIT Roorkee. I am interested Deep learning. I'm inquisitive about learning new technologies and their impact on improving existing solutions. I like how a code in Python using TensorFlow and Keras can give fascinating predictions with help of Deep learning models. I love CNN,RNN,LSTM. I like playing with transfer learning! 
 </h5>
 <br/>
 
